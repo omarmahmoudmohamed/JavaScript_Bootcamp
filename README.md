@@ -5,6 +5,7 @@
 ![100%](https://progress-bar.dev/100/?title=Done)
 
 ### Introduction
+/// this is note
 
 - [x] `Uploaded` - 001 - Introduction And What Is JavaScript ?
 - [x] `Uploaded` - 002 - How To Study The Course ?
