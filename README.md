@@ -4,7 +4,7 @@
 
 ![100%](https://progress-bar.dev/100/?title=Done)
 
-### Introduction
+### Introductiong
 /// this is note
 
 - [x] `Uploaded` - 001 - Introduction And What Is JavaScript ?
